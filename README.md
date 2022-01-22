@@ -1,6 +1,8 @@
 # TISP-ws-python
 
-This is a repo with the exercises for TISP workshops
+This is a repo with the exercises for TISP workshops!
+
+You can access the presentation [here](http://tiny.cc/ieee-tisp-python)!
 
 ## How to run this project
 
