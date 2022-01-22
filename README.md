@@ -18,3 +18,10 @@ Install [jupyter notebook](https://jupyter.org/) with pip.
 ```bash
 pip install notebook
 ```
+
+Now you can run this project with:
+
+```bash
+# make sure you are in the project root folder
+jupyter notebook
+```
