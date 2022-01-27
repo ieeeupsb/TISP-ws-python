@@ -10,7 +10,7 @@ Não te preocupes se tiveres dúvidas a configurar o projeto. No início do work
 
 No entanto, se te quiseres aventurar estás à vontade para tentar configurar o projeto sozinho! Boa sorte 👋
 
-### Fazer download do projeto ⬇️
+### 1. Fazer download do projeto ⬇️
 
 Para fazeres download deste projeto carrega no butão `Code` e depois em `Download ZIP`. Segue o exemplo da imagem em baixo!
 
@@ -18,7 +18,7 @@ Para fazeres download deste projeto carrega no butão `Code` e depois em `Downlo
 
 Depois de teres feito download do projeto, faz *unzip* ao ficheiro e estás pronto! 👌
 
-### Instalar `python` e `pip` 🦾
+### 2. Instalar `python` e `pip` 🦾
 
 Instala [python3](https://www.python.org/) e [pip](https://pip.pypa.io/en/stable/getting-started/) no teu computador.
 
@@ -47,7 +47,7 @@ Requirement already satisfied: setuptools in c:\program files\windowsapps\python
 Requirement already satisfied: pip in c:\program files\windowsapps\pythonsoftwarefoundation.python.3.9_3.9.2800.0_x64__qbz5n2kfra8p0\lib\site-packages (21.2.4)   
 ```
 
-### Correr o projeto 🦿
+### 3. Correr o projeto 🦿
 
 Agora que tens `python` e `pip` instalados podes abrir o terminal dentro do projeto e correr os seguintes comandos!
 
