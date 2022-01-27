@@ -58,7 +58,6 @@ pip install notebook
 Agora para correr o projeto apenas precisas de correr este comando:
 
 ```bash
-# make sure you are in the project root folder
 jupyter notebook
 ```
 
