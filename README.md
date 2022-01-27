@@ -12,7 +12,7 @@ No entanto, se te quiseres aventurar estás à vontade para tentar configurar o 
 
 ### 1. Fazer download do projeto ⬇️
 
-Para fazeres download deste projeto carrega no butão `Code` e depois em `Download ZIP`. Segue o exemplo da imagem em baixo!
+Para fazeres download deste projeto carrega no botão `Code` e depois em `Download ZIP`. Segue o exemplo da imagem em baixo!
 
 ![](assets/how-to-download.png)
 
